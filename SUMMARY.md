@@ -18,12 +18,14 @@
 * [🔧 Premium](resources/premium.md)
 * [⚙ FAQ](resources/faq.md)
 * [👍 Troubleshooting](resources/troubleshooting/README.md)
+  * [Closed Dms](resources/troubleshooting/closed-dms.md)
   * [👍 Appy bot is offline](resources/troubleshooting/appy-bot-is-offline.md)
   * [👍 Role problems](resources/troubleshooting/role-problems.md)
   * [👍 Application canceled](resources/troubleshooting/application-canceled.md)
   * [Application files](resources/troubleshooting/application-files.md)
   * [👍 Empty messages](resources/troubleshooting/empty-messages.md)
   * [👍 Appy is not posting](resources/troubleshooting/appy-is-not-posting.md)
+  * [disabled application](resources/troubleshooting/disabled-application.md)
 * [❓ What's New?](resources/whats-new.md)
 
 ## Links

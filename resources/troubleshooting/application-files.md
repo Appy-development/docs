@@ -1,4 +1,4 @@
-# Application files
+# ⚙ Application files
 
 Sometimes you will find that an application has been sent as a file that you have to open. There could be several reasons for this.
 

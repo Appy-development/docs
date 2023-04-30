@@ -30,5 +30,5 @@ To set up a poll you will have to:&#x20;
 {% hint style="info" %}
 **Support**\
 Are you unsure how to use the **`/poll`** command or do you find that the bot does not react as you expected. \
-Do not hesitate to contact our **supporter** at Appys [**Support Server**](https://discord.com/invite/bDmc55c6zY).
+Do not hesitate to contact our **supporter** at Appy's [**Support Server**](https://discord.com/invite/bDmc55c6zY).
 {% endhint %}

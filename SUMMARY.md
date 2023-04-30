@@ -4,30 +4,32 @@
 
 ## Getting Started
 
-* [⚙ Set up](getting-started/set-up/README.md)
+* [👍 Set up](getting-started/set-up/README.md)
   * [👍 Invite Appy](getting-started/set-up/invite-appy.md)
-  * [⚙ Dashboard](getting-started/set-up/dashboard.md)
-  * [🔧 Applications](getting-started/set-up/applications.md)
-  * [🔧 Panels](getting-started/set-up/panels.md)
+  * [👍 Dashboard](getting-started/set-up/dashboard.md)
+  * [👍 Applications forms](getting-started/set-up/applications-forms.md)
+  * [👍 Panels](getting-started/set-up/panels.md)
+  * [👍 How to apply](getting-started/set-up/how-to-apply.md)
   * [👍 Polls](getting-started/set-up/polls.md)
 
 ## Resources
 
 * [👍 Commands](resources/commands.md)
 * [👍 Permissions](resources/permissions.md)
-* [🔧 Premium](resources/premium.md)
-* [⚙ FAQ](resources/faq.md)
+* [⚙ Premium](resources/premium.md)
+* [👍 FAQ](resources/faq.md)
 * [👍 Troubleshooting](resources/troubleshooting/README.md)
   * [invalid application logging channel](resources/troubleshooting/invalid-application-logging-channel.md)
   * [Unkown application](resources/troubleshooting/unkown-application.md)
-  * [Closed Dms](resources/troubleshooting/closed-dms.md)
+  * [👍 Closed DM's](resources/troubleshooting/closed-dms.md)
   * [👍 Appy bot is offline](resources/troubleshooting/appy-bot-is-offline.md)
   * [👍 Role problems](resources/troubleshooting/role-problems.md)
   * [👍 Application canceled](resources/troubleshooting/application-canceled.md)
-  * [Application files](resources/troubleshooting/application-files.md)
+  * [⚙ Application files](resources/troubleshooting/application-files.md)
   * [👍 Empty messages](resources/troubleshooting/empty-messages.md)
   * [👍 Appy is not posting](resources/troubleshooting/appy-is-not-posting.md)
-  * [disabled application](resources/troubleshooting/disabled-application.md)
+  * [👍 Invalid NaN](resources/troubleshooting/invalid-nan.md)
+  * [👍 Disabled application](resources/troubleshooting/disabled-application.md)
 * [❓ What's New?](resources/whats-new.md)
 
 ## Links

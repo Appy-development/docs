@@ -45,7 +45,7 @@ Appy is a simple, powerful and easy-to-use Discord application bot, who let you 
 
 ### WHY APPY BOT?
 
-It can be difficult to choose the right people for your staff. \
+It can be difficult to choose the right people for your staff, your gaming clan or anything else you need to have control over who you let in. \
 **Appy is the simple answer to this problem.** \
 Set up an easy application form and let your users answer your self-made questions. From here you can easily <mark style="color:green;">Accept</mark> or <mark style="color:red;">Deny</mark> them.
 

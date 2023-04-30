@@ -1,4 +1,4 @@
-# ⚙ FAQ
+# 👍 FAQ
 
 Here you can see a list of the most frequently asked questions.
 
@@ -39,7 +39,7 @@ Read more about what you get with premium [here.](broken-reference)
 
 <summary>How to make a application?</summary>
 
-
+Head to [Application forms](../getting-started/set-up/applications-forms.md) to see the guide how to set up a application.&#x20;
 
 </details>
 
@@ -47,7 +47,7 @@ Read more about what you get with premium [here.](broken-reference)
 
 <summary>How do i invite Appy to my server?</summary>
 
-You can invtie Appy by clicking HERE.&#x20;
+You can invtie Appy by clicking [HERE](https://discord.com/oauth2/authorize?client\_id=853327905357561948\&permissions=8\&scope=applications.commands%20bot) or go to [Invite Appy](../getting-started/set-up/invite-appy.md) to find a guide.&#x20;
 
 </details>
 
@@ -65,6 +65,14 @@ Go to [Commands ](broken-reference)to see Appys commands.&#x20;
 <summary>Can someone else buy Premium for me?</summary>
 
 If you are a team on your server and you want Premium. It does not need to be you as the owner of the server who buys it, just as long as the person who buys Premium has the right permissions on the server.
+
+</details>
+
+<details>
+
+<summary>Where can i get support?</summary>
+
+If you need help with Appy, do not hesitate to contact our **supporter** at Appy's [**Support Server**](https://discord.com/invite/bDmc55c6zY).
 
 </details>
 

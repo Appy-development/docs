@@ -19,6 +19,7 @@
 * [⚙ Premium](resources/premium.md)
 * [👍 FAQ](resources/faq.md)
 * [👍 Troubleshooting](resources/troubleshooting/README.md)
+  * [Invalid permissions to view applicants application](resources/troubleshooting/invalid-permissions-to-view-applicants-application.md)
   * [invalid application logging channel](resources/troubleshooting/invalid-application-logging-channel.md)
   * [Unkown application](resources/troubleshooting/unkown-application.md)
   * [👍 Closed DM's](resources/troubleshooting/closed-dms.md)

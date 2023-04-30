@@ -18,6 +18,7 @@
 * [🔧 Premium](resources/premium.md)
 * [⚙ FAQ](resources/faq.md)
 * [👍 Troubleshooting](resources/troubleshooting/README.md)
+  * [Unkown application](resources/troubleshooting/unkown-application.md)
   * [Closed Dms](resources/troubleshooting/closed-dms.md)
   * [👍 Appy bot is offline](resources/troubleshooting/appy-bot-is-offline.md)
   * [👍 Role problems](resources/troubleshooting/role-problems.md)

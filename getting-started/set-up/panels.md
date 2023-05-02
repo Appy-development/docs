@@ -50,7 +50,7 @@ When you want to create a Panel, you must fill in some data so that Appy is awar
 3. **Channel:** The channel is where the panel is sent to. _The members you think should be able to see the panel have access to this channel._
 4. **Applications:** Under Applications, you choose the applications forms you want to be displayed in the panel.&#x20;
 
-#### Premium features:&#x20;
+#### ![](../../.gitbook/assets/Crown.png)Premium features:&#x20;
 
 1. **Panel footer:** Panel footer is the footer of the panel. Use this block if you have a final comment for your panel.
 2. **Panel Image:** Panel image is the image of the panel, that will be posted with the panel embed. (Must be a valid image URL)

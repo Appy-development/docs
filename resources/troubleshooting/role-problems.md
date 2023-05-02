@@ -2,7 +2,7 @@
 
 What do you do if you've set the Appy bot to give or remove roles when accepting and rejecting people who have submitted an application, and it doesn't? You can find the answer to this below!
 
-## Role too low in Hierarchy
+## Role to low in Hierarchy
 
 <figure><img src="../../.gitbook/assets/Not giving roles.png" alt=""><figcaption></figcaption></figure>
 

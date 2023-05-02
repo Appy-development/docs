@@ -71,7 +71,7 @@ With Appy your applications will run like a dream.&#x20;
 
 {% hint style="info" %}
 **Who is Appy for?**\
-Appy is for those who thought it would be nice to do applications and then be able to review the applications with the other staff members without it having to take place through DM.
+Appy is for those who thought it would be nice to do applications and then be able to review the applications with the other staff members without having to take place through DM.
 {% endhint %}
 
 ### IS APPY BOT FREE?

@@ -6,7 +6,7 @@ Something went wrong? But what is this?&#x20;
 
 ## Invalid NaN
 
-If the Appy bot is giving you thing, is it because you have selected an application from the panel and canceled it and then tried to select the same one again while the panel is on the selected application.
+If the Appy bot is giving you this, is it because you have selected an application from the panel and canceled it and then tried to select the same one again while the panel is on the selected application.
 
 ## How to fix?&#x20;
 

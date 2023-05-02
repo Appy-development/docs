@@ -20,7 +20,7 @@ The submitted applications will be easy for you and your staff members to Accept
 
 <figure><img src="../../.gitbook/assets/Applicaion Overview.png" alt=""><figcaption></figcaption></figure>
 
-In order to understand panels and how to create/edit applications, you must first understand the application overview.\
+In order to understand applications and how to create/edit applications, you must first understand the application overview.\
 The Application overview is divided into 3 sections as seen above.
 
 * <mark style="background-color:green;">**GREEN**</mark>** - The sidebar.** \
@@ -50,7 +50,7 @@ When you want to create a Application, you must fill in some data so that Appy i
 
 1. **Enable:** This one used to Enable/disable, its very usefull if you want to wait a week or so before your members can apply to this application. It can also be disable if you just want to close the application for some time, withour deleting it. &#x20;
 2. **Application Name:** You can edit the applications name.
-3. **Logging channel:** The logging channel is a channel where all the filled and submitted applications will go, and will be stored to be accepted/denied by you or your staff members.&#x20;
+3. **Logging channel:** The logging channel is a channel where all the filled and submitted applications will go, and will be stored to be accepted/denied by you or your staff members. You can choose to set the permissions so that only you and your staff can see this, or make it open so everyone can see it. To change private/open permissions, must this be done in the channel settings on your server.
 4. **Staff Threads:** If you want your logging channel to look clean and only contain the submitted applications. You can activate Staff Threads, so you and your staff members have a possibility to chat about the applications.&#x20;
 5. **Completion message:** Use this if you want to send a personal messages to the user who have just completed an application.
 6. **Accepted Message:** Use this if you want to send a personal messages to the user you just accepted.&#x20;
@@ -63,7 +63,7 @@ When you want to create a Application, you must fill in some data so that Appy i
 13. **Accepted removal roles:** The roles which will be removed when an applicant is accepted.
 14. **Denied removal roles:** The roles which will be removed when an applicant is denied
 
-#### Premium features:&#x20;
+#### ![](../../.gitbook/assets/Crown.png)Premium features:&#x20;
 
 1. **Application manager roles:** If you have set your logging channel to be open for the other users then your staff members, but would like to decide for youself who can accept/deny the applications. If you have not set any roles in this, everyone on the server can process the applications.
 2. **Application cooldown:** How often someone can re-apply to the application. Cooldown (In seconds)
@@ -72,7 +72,7 @@ When you want to create a Application, you must fill in some data so that Appy i
 
 <figure><img src="../../.gitbook/assets/Questions.png" alt=""><figcaption></figcaption></figure>
 
-You have made it through the data, not its time to make some quesions. \
+You have made it through the data, now its time to make some quesions. \
 There is two types of question you can make:&#x20;
 
 * Ordinary questions

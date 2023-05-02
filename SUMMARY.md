@@ -16,7 +16,7 @@
 
 * [👍 Commands](resources/commands.md)
 * [👍 Permissions](resources/permissions.md)
-* [⚙ Premium](resources/premium.md)
+* [👍 Premium](resources/premium.md)
 * [👍 FAQ](resources/faq.md)
 * [👍 Troubleshooting](resources/troubleshooting/README.md)
   * [Invalid permissions to view applicants application](resources/troubleshooting/invalid-permissions-to-view-applicants-application.md)
@@ -26,7 +26,7 @@
   * [👍 Appy bot is offline](resources/troubleshooting/appy-bot-is-offline.md)
   * [👍 Role problems](resources/troubleshooting/role-problems.md)
   * [👍 Application canceled](resources/troubleshooting/application-canceled.md)
-  * [⚙ Application files](resources/troubleshooting/application-files.md)
+  * [👍 Large applications](resources/troubleshooting/large-applications.md)
   * [👍 Empty messages](resources/troubleshooting/empty-messages.md)
   * [👍 Appy is not posting](resources/troubleshooting/appy-is-not-posting.md)
   * [👍 Invalid NaN](resources/troubleshooting/invalid-nan.md)

@@ -41,7 +41,7 @@ Thank you for your interest in **Appy premium**! Your donation is very much appr
 
 You can activate your Premium in 3 easy steps.&#x20;
 
-1. Go to your dashboard&#x20;
+1. Go to the Appy [dashboard](https://appybot.xyz/dashboard?selected=premium)&#x20;
 2. Click ![](../.gitbook/assets/Crown.png)Premium, right next to Guild selection
 3. Choose the server you want to activate Premium on.&#x20;
 

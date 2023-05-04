@@ -73,7 +73,7 @@ In order to know who has bought Premium, you will need to link your discord and 
 
 <summary>Can I get a refund if I don't like it?</summary>
 
-If, unexpectedly, you do not like Appy Premium after your purchase, you can get a refound within 24 hours of your purchase.
+If, unexpectedly, you do not like Appy Premium after your purchase, you can get a refund within 24 hours of your purchase.
 
 </details>
 

@@ -10,7 +10,7 @@ Appys live polls is extremely useful in connection with an application where the
 
 ## How to use Polls?
 
-To create a poll you have to use a _`/slash`_ command in this case <mark style="color:yellow;">`/poll`</mark>
+To create a poll you have to use a `slash` command in this case <mark style="color:yellow;">`/poll`</mark>
 
 To set up a poll you will have to:&#x20;
 

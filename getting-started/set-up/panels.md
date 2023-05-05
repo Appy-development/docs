@@ -7,7 +7,7 @@ You have now made an application form and would like to post it so that is displ
 With a Panel you can show which open application forms you have, this provides an easier overview for your members.\
 You can have several application forms under one Panel or you can choose to only one. A panel is an easy way for you to display all the application forms that members can access. It is easy to get an overview if for example, you have several application forms open at the same time.
 
-<figure><img src="../../.gitbook/assets/Panel exampel.png" alt=""><figcaption><p>An example of a Panel.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Panel Exampel.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Your members will still be able to apply with the `/apply <application_name>` [`command`](../../resources/commands.md)&#x20;
@@ -35,7 +35,7 @@ It is super easy to set up a panel, with 3 **steps** you can display your applic
 
 To create a new panel, write the name of the Panel and then press "New Panel"&#x20;
 
-<figure><img src="../../.gitbook/assets/New Panel Gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New Panel NEW GIF.gif" alt=""><figcaption></figcaption></figure>
 
 ### 2. Fill out the panel data&#x20;
 

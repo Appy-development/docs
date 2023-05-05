@@ -26,7 +26,7 @@ The [Application ](applications-forms.md)forms give you control over who you app
 With a [Panel ](panels.md)you can show which open application forms you have, this provides an easier overview for your members.\
 You can have several application forms under one Panel or you can choose to only one. A panel is an easy way for you to display all the application forms that members can access. It is easy to get an overview if for example, you have several application forms open at the same time.
 
-<figure><img src="../../.gitbook/assets/Panel exampel.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Panel Exampel.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Polls" %}

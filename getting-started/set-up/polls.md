@@ -19,7 +19,8 @@ To set up a poll you will have to:&#x20;
 3. Then select which channel you want the poll to take place in.
 4. Ask your question
 5. Write your answer options. It is possible to add up to 9 answer options.
-6. Hit enter and your poll will be posted.
+6. Choose if the users can multiple vote
+7. Hit enter and your poll will be posted.
 
 <figure><img src="../../.gitbook/assets/Poll Command.png" alt=""><figcaption><p>This picture show how to use the <code>/poll</code> command</p></figcaption></figure>
 

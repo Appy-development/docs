@@ -8,34 +8,34 @@ Thank you for your interest in **Appy premium**! Your donation is very much appr
 
 ## Appy Plans ![](../.gitbook/assets/Crown.png)
 
-| Feature Description                                          | FREE                                    | TIER 1                                  | TIER 2                                  |
-| ------------------------------------------------------------ | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <mark style="color:blue;">**Server Management**</mark>       |                                         |                                         |                                         |
-| Appy Bot on servers                                          | Unlimited                               | 1                                       | 3                                       |
-| Fully functional dashboard                                   | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Customizable Commands                                        | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Support at Appys Support Server                              | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| <mark style="color:blue;">**Applications Management**</mark> |                                         |                                         |                                         |
-| Applications                                                 | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Custom Applications                                          | Unlimited                               | Unlimited                               | Unlimited                               |
-| Panel Feature                                                | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Staff theads                                                 | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Application history                                          | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Unlimited restricted roles                                   | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Unlimited accept roles                                       | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Unlimited deny roles                                         | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Unlimited ping roles                                         | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Customizable completion message                              | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Access to the application manager setting                    | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Application manager roles                                    | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| <mark style="color:blue;">**Panels**</mark>                  |                                         |                                         |                                         |
-| Panel image                                                  | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Panel footer                                                 | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| <mark style="color:blue;">**Poll**</mark>                    |                                         |                                         |                                         |
-| Real-time updating Poll                                      | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| Poll answer options                                          | 9                                       | 9                                       | 9                                       |
-|                                                              |                                         |                                         |                                         |
-| <mark style="color:yellow;">**GET**</mark>                   | FREE                                    | TIER 1                                  | TIER 2                                  |
+| Feature Description                                          | FREE                                    | TIER 1                                  | TIER 2                                  |   |
+| ------------------------------------------------------------ | --------------------------------------- | --------------------------------------- | --------------------------------------- | - |
+| <mark style="color:blue;">**Server Management**</mark>       |                                         |                                         |                                         |   |
+| Appy Bot on servers                                          | Unlimited                               | 1                                       | 3                                       |   |
+| Fully functional dashboard                                   | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Customizable Commands                                        | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Support at Appys Support Server                              | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| <mark style="color:blue;">**Applications Management**</mark> |                                         |                                         |                                         |   |
+| Applications                                                 | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Custom Applications                                          | Unlimited                               | Unlimited                               | Unlimited                               |   |
+| Panel Feature                                                | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Staff theads                                                 | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Application history                                          | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Unlimited restricted roles                                   | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Unlimited accept roles                                       | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Unlimited deny roles                                         | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Unlimited ping roles                                         | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Customizable completion message                              | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Access to the application manager setting                    | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Application manager roles                                    | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| <mark style="color:blue;">**Panels**</mark>                  |                                         |                                         |                                         |   |
+| Panel image                                                  | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Panel footer                                                 | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| <mark style="color:blue;">**Poll**</mark>                    |                                         |                                         |                                         |   |
+| Real-time updating Poll                                      | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Poll answer options                                          | 9                                       | 9                                       | 9                                       |   |
+|                                                              |                                         |                                         |                                         |   |
+| <mark style="color:yellow;">**GET**</mark>                   | FREE                                    | TIER 1                                  | TIER 2                                  |   |
 
 ## How to activate Premium?
 
@@ -43,7 +43,7 @@ You can activate your Premium in 3 easy steps.&#x20;
 
 1. Go to the Appy [dashboard](https://appybot.xyz/dashboard?selected=premium)&#x20;
 2. Click ![](../.gitbook/assets/Crown.png)Premium, right next to Guild selection
-3. Choose the server you want to activate Premium on.&#x20;
+3. Click "Add server" and choose the server you want to activate Premium on.&#x20;
 
 <figure><img src="../.gitbook/assets/Premium" alt=""><figcaption></figcaption></figure>
 

@@ -38,7 +38,7 @@ Applications forms is easy and very user-friendly to set up. With only a few ste
 
 To create a new application, write the name of the application and then press "New Application"&#x20;
 
-<figure><img src="../../.gitbook/assets/New Application GIF.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New Application NEW GIF.gif" alt=""><figcaption></figcaption></figure>
 
 ### 2. Fill out the applications data
 

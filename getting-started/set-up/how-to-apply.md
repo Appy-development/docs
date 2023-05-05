@@ -18,7 +18,7 @@ You can apply to all applications that are enabled by using the slash command.
 
 ### How to use /apply
 
-<figure><img src="../../.gitbook/assets/Slash command_GIF.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slash command New GIF.gif" alt=""><figcaption></figcaption></figure>
 
 To apply through the slash command:&#x20;
 
@@ -37,7 +37,7 @@ The applications creator have to make a panel, before it will be posted your dis
 
 ### How to use a Panel
 
-<figure><img src="../../.gitbook/assets/Apply Panel GIF.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Appy Panel New Gif.gif" alt=""><figcaption></figcaption></figure>
 
 To apply through a panel:&#x20;
 

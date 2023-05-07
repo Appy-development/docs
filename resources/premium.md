@@ -20,6 +20,7 @@ Thank you for your interest in **Appy premium**! Your donation is very much appr
 | Custom Applications                                          | Unlimited                               | Unlimited                               | Unlimited                               |   |
 | Panel Feature                                                | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
 | Staff theads                                                 | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
+| Active applications at once                                  | 10                                      | 50                                      | 50                                      |   |
 | Application history                                          | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
 | Unlimited restricted roles                                   | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |
 | Unlimited accept roles                                       | ![](<../.gitbook/assets/image (1).png>) | ![](<../.gitbook/assets/image (2).png>) | ![](<../.gitbook/assets/image (2).png>) |   |

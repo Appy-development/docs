@@ -39,7 +39,7 @@ To create a new panel, write the name of the Panel and then press "New Panel"&#x
 
 ### 2. Fill out the panel data&#x20;
 
-<figure><img src="../../.gitbook/assets/Panel data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Panel Data.png" alt=""><figcaption></figcaption></figure>
 
 When you want to create a Panel, you must fill in some data so that Appy is aware of what you want it to do.
 
@@ -54,6 +54,8 @@ When you want to create a Panel, you must fill in some data so that Appy is awar
 
 1. **Panel footer:** Panel footer is the footer of the panel. Use this block if you have a final comment for your panel.
 2. **Panel Image:** Panel image is the image of the panel, that will be posted with the panel embed. (Must be a valid image URL)
+3. **Button Panel:** Choose whether your members should select the applications through buttons or drop down menu.
+4. **Panel Color:** Panel color is the color of the sidebar when its send to discord.&#x20;
 
 ### 3. Send the panel
 

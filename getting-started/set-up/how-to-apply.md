@@ -39,11 +39,18 @@ The applications creator have to make a panel, before it will be posted your dis
 
 <figure><img src="../../.gitbook/assets/Appy Panel New Gif.gif" alt=""><figcaption></figcaption></figure>
 
-To apply through a panel:&#x20;
+To apply through a panel with **drop down menu:**&#x20;
 
 1. Click the drop down "Make a selection"
 2. Choose the application you want to apply to
 3. Apply will now send you a DM
+
+To apply through a panel with **buttons:**
+
+<figure><img src="../../.gitbook/assets/Apply Panel Button.gif" alt=""><figcaption></figcaption></figure>
+
+1. Click the button with the titel of the application you want to apply for
+2. Apply with now send you a DM.
 
 {% hint style="info" %}
 Are you getting a error or do the bot not react? Head to [**Troubleshooting** ](../../resources/troubleshooting/)or join our [**Support server**](https://discord.com/invite/bDmc55c6zY) to get help.&#x20;

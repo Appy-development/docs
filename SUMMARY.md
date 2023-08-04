@@ -30,7 +30,6 @@
   * [👍 Empty messages](resources/troubleshooting/empty-messages.md)
   * [👍 Appy is not posting](resources/troubleshooting/appy-is-not-posting.md)
   * [👍 Disabled application](resources/troubleshooting/disabled-application.md)
-* [❓ What's New?](resources/whats-new.md)
 
 ## Links
 

@@ -12,6 +12,8 @@ By reading this guide, you will learn about everything Appy can do. If you're ne
 This documentation is a step-by-step guide to making the most of Appy. The guide is made so everyone can use Appy, no matter what your experience is with discord bots.\
 It will take you through Appy as an application bot, but also some of the other functions that Appy has to offer.
 
+The Appy docs are listed on [Github](https://github.com/Appy-development/docs), if you spot any issues feel free to make a pull request!
+
 {% hint style="success" %}
 By the end of the guide, you will know everything there is to know about setting up Appy and using its features.
 {% endhint %}

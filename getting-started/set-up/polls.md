@@ -1,4 +1,4 @@
-# 👍 Polls
+# Polls
 
 With Appy bot you can set up real-time results polls. \
 Polls are incredibly useful for doing surveys on your server, for getting knowledge from your members or you can use polls in connection with applications if there are several of you who have an opinion in one or more specific applications.

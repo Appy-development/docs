@@ -1,4 +1,4 @@
-# 👍 Large applications
+# Large applications
 
 <figure><img src="../../.gitbook/assets/App is to large.png" alt=""><figcaption></figcaption></figure>
 

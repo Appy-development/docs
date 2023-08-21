@@ -1,4 +1,4 @@
-# 👍 Dashboard
+# Dashboard
 
 The dashboard is the core of being able to create application forms.
 

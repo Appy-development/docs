@@ -1,4 +1,4 @@
-# 👍 Role problems
+# Role problems
 
 What do you do if you've set the Appy bot to give or remove roles when accepting and rejecting people who have submitted an application, and it doesn't? You can find the answer to this below!
 

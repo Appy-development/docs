@@ -1,4 +1,4 @@
-# 👍 Troubleshooting
+# Troubleshooting
 
 From time to time you will get a error messages, this cannot be avoided as Appy is an online bot that is constantly being worked on to improve it.\
 Head through the pages or use the sidebar on the left to find your problem.&#x20;

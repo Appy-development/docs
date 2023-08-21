@@ -1,4 +1,4 @@
-# 👍 Appy bot is offline
+# Appy bot is offline
 
 ## Appy is not responding?
 

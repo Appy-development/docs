@@ -1,4 +1,4 @@
-# 👍 Closed DM's
+# Closed DM's
 
 <figure><img src="../../.gitbook/assets/Trouble DM.png" alt=""><figcaption></figcaption></figure>
 

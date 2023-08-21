@@ -1,4 +1,4 @@
-# 👍 Applications forms
+# Applications forms
 
 You are seeking for new staff, it can be a new moderator, staff chief, supporter, a new member for your gaming clan or anything else you need to have control over who you let in. Appys applications is the right choice for this.
 

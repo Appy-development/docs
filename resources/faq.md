@@ -1,4 +1,4 @@
-# 👍 FAQ
+# FAQ
 
 Here you can see a list of the most frequently asked questions.
 

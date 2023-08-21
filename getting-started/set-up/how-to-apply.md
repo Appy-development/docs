@@ -1,4 +1,4 @@
-# 👍 How to apply
+# How to apply
 
 You have seen that new staff, new members or other things are being sought. You're ready to apply, but how do you do it?
 

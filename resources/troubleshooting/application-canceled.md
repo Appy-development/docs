@@ -1,4 +1,4 @@
-# 👍 Application canceled
+# Application canceled
 
 <figure><img src="../../.gitbook/assets/Application expired.png" alt=""><figcaption></figcaption></figure>
 

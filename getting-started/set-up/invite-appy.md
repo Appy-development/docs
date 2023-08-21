@@ -1,4 +1,4 @@
-# 👍 Invite Appy
+# Invite Appy
 
 It's super easy to invite Appy bot to your server. I'll here guide you through inviting Appy to your server in 4 easy steps.&#x20;
 

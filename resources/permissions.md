@@ -1,4 +1,4 @@
-# 👍 Permissions
+# Permissions
 
 In order for the Appy bot to function optimally, there are some things Appy must be allowed to do on your server.&#x20;
 

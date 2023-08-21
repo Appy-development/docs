@@ -1,4 +1,4 @@
-# 👍 Set up
+# Set up
 
 Appy is super easy to set up and it will only take a few minutes before the applications start flying in. Then start building your staff by accepting or rejecting the many applications and let Appy add and remove roles automatically as you choose.
 

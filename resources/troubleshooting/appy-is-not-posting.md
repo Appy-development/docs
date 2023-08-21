@@ -1,4 +1,4 @@
-# 👍 Appy is not posting
+# Appy is not posting
 
 You have made an application form and pressed save, but it does not appear on your discord. There could be several reasons for this.
 

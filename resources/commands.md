@@ -1,4 +1,4 @@
-# 👍 Commands
+# Commands
 
 Below you can find a list of the commands that Appy uses. These can be used on your discord server.
 

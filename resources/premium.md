@@ -1,4 +1,4 @@
-# 👍 Premium
+# Premium
 
 ## Take your applications to the next level!
 

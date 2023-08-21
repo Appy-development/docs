@@ -1,4 +1,4 @@
-# 👍 Empty messages
+# Empty messages
 
 If you send your panel to a channel and it shows a blank message or if you try to fill out an application and Appy only sends blank messages, you've come to the right place.
 

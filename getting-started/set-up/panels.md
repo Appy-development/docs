@@ -1,4 +1,4 @@
-# 👍 Panels
+# Panels
 
 You have now made an application form and would like to post it so that is displayed for your members.
 

@@ -1,4 +1,4 @@
-# 👍 Welcome
+# 👋 Welcome
 
 <figure><img src=".gitbook/assets/V6 new.png" alt=""><figcaption></figcaption></figure>
 

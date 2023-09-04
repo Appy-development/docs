@@ -14,6 +14,8 @@
   * [Tickets](getting-started/set-up/tickets.md)
 * [Tickets](getting-started/tickets/README.md)
   * [Settings](getting-started/tickets/settings.md)
+* [Applications](getting-started/applications/README.md)
+  * [Settings](getting-started/applications/settings.md)
 
 ## Resources
 

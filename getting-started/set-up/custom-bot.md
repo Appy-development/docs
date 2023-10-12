@@ -26,4 +26,18 @@ Head on over to the "bot" page and enable all privileged intents, once done save
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
+## Setting up oauth callbacks
+
+The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [**https://appybot.xyz/api/auth/callback/discord**](https://appybot.xyz/api/auth/callback/discord)&#x20;
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+## Obtaining the bot token
+
+Head on over to the "bot" tab, and you'll see your token. Copy this and paste it into the appy website
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 Now, go back to appy site and finish the configuration!

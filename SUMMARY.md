@@ -12,6 +12,7 @@
   * [How to apply](getting-started/set-up/how-to-apply.md)
   * [Polls](getting-started/set-up/polls.md)
   * [Tickets](getting-started/set-up/tickets.md)
+  * [Custom bot](getting-started/set-up/custom-bot.md)
 * [Tickets](getting-started/tickets/README.md)
   * [Settings](getting-started/tickets/settings.md)
 * [Applications](getting-started/applications/README.md)

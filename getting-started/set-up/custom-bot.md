@@ -4,6 +4,12 @@ description: A page explaining how to setup custom bots
 
 # Custom bot
 
+## First, head on over to the appy dashboard by [clicking here](https://appybot.xyz/dashboard?selected=customInstance)
+
+Once done, you will see the following page. Now its time to start configuring your bot, see below for more details
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 ## Creating the app
 
 Visit the discord developer [page](https://discord.com/developers/applications)

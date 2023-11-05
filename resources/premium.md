@@ -36,14 +36,6 @@ They are particularly suitable for larger communities or communities that have m
 
 <details>
 
-<summary>Link your Discord and Patreon</summary>
-
-In order to know who has bought Premium, you will need to link your discord and patreon together.
-
-</details>
-
-<details>
-
 <summary>Can I get a refund if I don't like it?</summary>
 
 If, unexpectedly, you do not like Appy Premium after your purchase, you can get a refund within 24 hours of your purchase.

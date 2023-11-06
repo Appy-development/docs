@@ -28,7 +28,7 @@ Head on over to the "bot" page and enable all privileged intents, once done save
 
 ## Setting up oauth callbacks
 
-The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [**https://appybot.xyz/callback/discord**](https://appybot.xyz/api/auth/callback/discord)[ ](https://appybot.xyz/callback/discord)
+The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [`https://appybot.xyz/callback/discord`](https://appybot.xyz/callback/discord)
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

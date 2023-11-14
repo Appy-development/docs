@@ -56,6 +56,7 @@ When you want to create a Panel, you must fill in some data so that Appy is awar
 2. **Panel Image:** Panel image is the image of the panel, that will be posted with the panel embed. (Must be a valid image URL)
 3. **Button Panel:** Choose whether your members should select the applications through buttons or drop down menu.
 4. **Panel Color:** Panel color is the color of the sidebar when its send to discord.&#x20;
+5. **Panel type:** Panel type allows you to change the interaction type to use a dropdown menu or buttons
 
 ### 3. Send the panel
 

@@ -41,5 +41,5 @@
 
 * [Invite Appy](https://discord.com/oauth2/authorize?client\_id=853327905357561948\&permissions=8\&scope=applications.commands%20bot)
 * [Appy Dashboard](https://www.appybot.xyz/)
-* [Premium](https://www.patreon.com/appybot)
+* [Premium](https://appybot.xyz/premium)
 * [Support Server](https://discord.com/invite/bDmc55c6zY)

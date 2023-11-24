@@ -2,9 +2,9 @@
 
 You are seeking for new staff, it can be a new moderator, staff chief, supporter, a new member for your gaming clan or anything else you need to have control over who you let in. Appys applications is the right choice for this.
 
-## What is applications forms?
+## What is an application form?
 
-The application forms give you control over who you approve for certain things on your server. This can be anything from staff jobs, to game members, various discord roles or anything else that just fits into your community.
+An application form gives you control over who you approve for certain things on your server. This can be anything from staff jobs, to game members, various discord roles or anything else that just fits into your community.
 
 Abby's application forms allow your members to easily apply for what you are looking for, while the applications will be displayed for you and your staff members in a clear way, with the possibility to accept or deny them.
 
@@ -15,8 +15,6 @@ The submitted applications will be easy for you and your staff members to Accept
 {% endhint %}
 
 ## The Application overview
-
-
 
 <figure><img src="../../.gitbook/assets/Applicaion Overview.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,13 +28,13 @@ The Application overview is divided into 3 sections as seen above.
 * <mark style="background-color:blue;">**BLUE**</mark>** - Applications options.** \
   In this section you can edit your application forms. There are various things that can be edited for application forms. It is also from here that you can create questions, tell the bot to give/remove roles and so much more.
 
-## How to make a Application forms
+## How to make an Application form
 
 Applications forms is easy and very user-friendly to set up. With only a few steps you have made your first application and your members is ready to apply at your server.&#x20;
 
 ### 1. Make a new Application
 
-To create a new application, write the name of the application and then press "New Application"&#x20;
+To create a new application, visit the [appy dashboard](https://appybot.xyz/dashboard), login and select your server. write the name of the application and then press "New Application"&#x20;
 
 <figure><img src="../../.gitbook/assets/New Application NEW GIF.gif" alt=""><figcaption></figcaption></figure>
 

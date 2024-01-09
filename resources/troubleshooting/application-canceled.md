@@ -5,7 +5,7 @@
 If this appears in your application, it is because you have spent too much time on it or you have been away from it for too long
 
 {% hint style="danger" %}
-You have 60 minutes from the time you press <mark style="color:green;">start</mark> to complete your application.
+You have 2 hours (120 minutes) from the time you press <mark style="color:green;">start</mark> to complete your application.
 {% endhint %}
 
 If you experience this, you need to start your application over again. Fortunately, there are some tricks for this.

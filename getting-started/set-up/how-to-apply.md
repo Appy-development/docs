@@ -22,7 +22,7 @@ You can apply to all applications that are enabled by using the slash command.
 
 To apply through the slash command:&#x20;
 
-1. Wrtie /apply
+1. Write `/apply`
 2. Choose which application you want to apply to
 3. Hit enter
 4. Appy will now send you a DM

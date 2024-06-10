@@ -1,13 +1,10 @@
 # 👍 Disabled application
 
-<figure><img src="../../.gitbook/assets/Disabled application.png" alt=""><figcaption></figcaption></figure>
+## Application is disabled?
 
-## Application is disable?
+If you not an admin of the server ask a member of server staff if the application should be disabled.
 
-If you are getting this messages, it means the application is **disable**. \
-Either this is the intention on the part of the server staff or else it has been forgotten to be set to Enable.&#x20;
-
-If you are unsure if it was a fail or the mening, ask the server staff.&#x20;
+If you are an admin of the server you can fix this by following the steps below.
 
 ## How to fix on dashboard
 

@@ -3,7 +3,7 @@
 <figure><img src=".gitbook/assets/V6 new.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**INFO**\
+**Info**\
 By reading this guide, you will learn about everything Appy can do. If you're new to Appy, we suggest you follow this guide by clicking "Next" at the bottom of the page when you're done reading!
 {% endhint %}
 
@@ -18,11 +18,11 @@ The Appy docs are listed on [Github](https://github.com/Appy-development/docs), 
 By the end of the guide, you will know everything there is to know about setting up Appy and using its features.
 {% endhint %}
 
-### THE PREFIX
+### The prefix
 
 Appy's prefix is <mark style="color:green;">**`/`**</mark>. You can type <mark style="color:green;">**`/help`**</mark> for a list of commands or go to our [commands ](resources/commands.md)page.&#x20;
 
-### WHAT IS APPY?
+### What is Appy? 
 
 Appy is the best **free** to use Discord application bot for your Discord community. Even if you are a small or large community, Appy is an absolute must-have for your community.
 
@@ -45,7 +45,7 @@ Appy is a simple, powerful and easy-to-use Discord application bot, who let you 
 
 </details>
 
-### WHY APPY BOT?
+### Why Appy bot?
 
 It can be difficult to choose the right people for your staff, your gaming clan or anything else you need to have control over who you let in. \
 **Appy is the simple answer to this problem.** \
@@ -76,7 +76,7 @@ With Appy your applications will run like a dream.&#x20;
 Appy is for those who thought it would be nice to do applications and then be able to review the applications with the other staff members without having to take place through DM.
 {% endhint %}
 
-### IS APPY BOT FREE?
+### Is Appy bot free?
 
 Yes! Appy provides both a free to use and paid version of the bot, although the vast majority of users do not need to pay. If you run larger communities where more functions are needed, Premium could be a good idea.
 
@@ -84,7 +84,7 @@ Yes! Appy provides both a free to use and paid version of the bot, although the 
 If you want to know more about the difference between the free version and the paid version, go to the [Premium](resources/premium.md) page or click [HERE](https://www.patreon.com/appybot) to buy.
 {% endhint %}
 
-### I WANT APPY
+### I want Appy!
 
 Get Appy Bot on your server
 

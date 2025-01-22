@@ -20,11 +20,11 @@ Your members will still be able to apply with the `/apply <application_name>` [`
 In order to understand panels and how to create/edit panels, you must first understand the panel overview.\
 The Panel overview is divided into 3 sections as seen above.
 
-* <mark style="background-color:green;">**GREEN**</mark>** - The sidebar.** \
+* <mark style="background-color:green;">**GREEN**</mark>**&#x20;- The sidebar.** \
   This one will always be displayed no matter where you are on the dashboard. In the sidebar, you will be able to choose the many features that Appy offers. Hold your move over the feature in the sidebar to read about what its. In this case, select **Panels**.&#x20;
-* <mark style="background-color:red;">**RED**</mark>** - Panel overview.** \
+* <mark style="background-color:red;">**RED**</mark>**&#x20;- Panel overview.** \
   This section is for creating new panels, viewing your panels and deleting panels.
-* <mark style="background-color:blue;">**BLUE**</mark>** - Panel options.** \
+* <mark style="background-color:blue;">**BLUE**</mark>**&#x20;- Panel options.** \
   In this section you can edit your panels. There are various things that can be edited for Panels. It is also from here that you can send your panels out on a discord server.
 
 ## How to set up a Panel&#x20;

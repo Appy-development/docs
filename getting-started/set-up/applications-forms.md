@@ -21,11 +21,11 @@ The submitted applications will be easy for you and your staff members to Accept
 In order to understand applications and how to create/edit applications, you must first understand the application overview.\
 The Application overview is divided into 3 sections as seen above.
 
-* <mark style="background-color:green;">**GREEN**</mark>** - The sidebar.** \
+* <mark style="background-color:green;">**GREEN**</mark>**&#x20;- The sidebar.** \
   This one will always be displayed no matter where you are on the dashboard. In the sidebar, you will be able to choose the many features that Appy offers. Hold your move over the feature in the sidebar to read about what its. In this case, select **Applications**.&#x20;
-* <mark style="background-color:red;">**RED**</mark>** - Applications overview.** \
+* <mark style="background-color:red;">**RED**</mark>**&#x20;- Applications overview.** \
   This section is for creating new application forms, viewing your application forms and deleting application forms.
-* <mark style="background-color:blue;">**BLUE**</mark>** - Applications options.** \
+* <mark style="background-color:blue;">**BLUE**</mark>**&#x20;- Applications options.** \
   In this section you can edit your application forms. There are various things that can be edited for application forms. It is also from here that you can create questions, tell the bot to give/remove roles and so much more.
 
 ## How to make an Application form

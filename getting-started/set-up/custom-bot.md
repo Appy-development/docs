@@ -12,7 +12,7 @@ Once done, you will see the following page. Now its time to start configuring yo
 
 ## Creating the app
 
-Visit the discord developer [page](https://discord.com/developers/applications)
+First, kick the main Appy bot from your server (don't worry, your server settings wont be deleted). Once done, visit the discord developer page by [clicking here](https://discord.com/developers/applications)
 
 ### Click the new application button:
 

@@ -34,9 +34,9 @@ If you want to invite Appy to one of the servers, click the <mark style="color:y
 As you can see above, the first page is divided into 3 sections.\
 Its very easy to understand:
 
-* <mark style="background-color:green;">**GREEN**</mark>** - The sidebar.** \
+* <mark style="background-color:green;">**GREEN**</mark>**&#x20;- The sidebar.** \
   This one will always be displayed no matter where you are on the dashboard. In the sidebar, you will be able to choose the many features that Appy offers. Hold your move over the feature in the sidebar to read about what its.&#x20;
-* <mark style="background-color:red;">**RED**</mark>** - Server stats.**\
+* <mark style="background-color:red;">**RED**</mark>**&#x20;- Server stats.**\
   &#x20;Here you will quickly get an overview of how many applications on a given server have been - accepted and denied. It also shows you whether you have any pending applications waiting to be processed.
 * <mark style="background-color:blue;">**BLUE**</mark> **- Help section.**\
   The blue section will in the future contain guides, bot info and other things that could be helpful on the dashboard.

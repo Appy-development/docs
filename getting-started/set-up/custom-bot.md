@@ -16,7 +16,7 @@ First, kick the main Appy bot from your server (don't worry, your server setting
 
 ### Click the new application button:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fill out the contents of the form and click create:
 
@@ -30,7 +30,7 @@ Head on over to the "bot" page and enable all privileged intents, once done save
 
 The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [`https://appybot.xyz/callback/discord`](https://appybot.xyz/callback/discord)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Obtaining the bot token
 

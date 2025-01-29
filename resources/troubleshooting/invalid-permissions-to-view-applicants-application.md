@@ -6,4 +6,4 @@ description: >-
 
 # Invalid permissions to view applicants application
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)

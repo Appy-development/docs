@@ -13,8 +13,9 @@
   * [Polls](getting-started/set-up/polls.md)
   * [Tickets](getting-started/set-up/tickets.md)
   * [Custom bot](getting-started/set-up/custom-bot.md)
-* [Tickets](getting-started/tickets/README.md)
-  * [Settings](getting-started/tickets/settings.md)
+* [Ticket system](getting-started/ticket-system/README.md)
+  * [Ticket setup](getting-started/ticket-system/ticket-setup.md)
+  * [Settings](getting-started/ticket-system/settings.md)
 * [Applications](getting-started/applications/README.md)
   * [Settings](getting-started/applications/settings.md)
 
@@ -39,7 +40,7 @@
 
 ## Links
 
-* [Invite Appy](https://discord.com/oauth2/authorize?client\_id=853327905357561948\&permissions=8\&scope=applications.commands%20bot)
+* [Invite Appy](https://discord.com/oauth2/authorize?client_id=853327905357561948\&permissions=8\&scope=applications.commands%20bot)
 * [Appy Dashboard](https://www.appybot.xyz/)
 * [Premium](https://appybot.xyz/premium)
 * [Support Server](https://discord.com/invite/bDmc55c6zY)

@@ -2,7 +2,7 @@
 
 ## Action on user leave
 
-This setting allows you to perform specific actions whenever a user who has an active ticket leaves the server.
+This setting allows you to perform specific actions whenever a user which has a pending application leaves the server.
 
 
 

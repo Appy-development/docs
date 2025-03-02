@@ -22,13 +22,19 @@ Fill out the contents of the form and click create:
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-Head on over to the "bot" page and enable all privileged intents, once done save it:
+Head on over to the "bot" page and enable the circled intents.
+
+{% hint style="warning" %}
+## Important
+
+You must only enable the settings which are circled. If you enable any others you may run into issues.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-## Setting up oauth callbacks
+## Setting up OAuth callbacks
 
-The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [`https://appybot.xyz/callback/discord`](https://appybot.xyz/callback/discord)
+The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [`https://appy.bot/callback/discord`](https://appybot.xyz/callback/discord)
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

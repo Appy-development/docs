@@ -34,7 +34,7 @@ You must only enable the settings which are circled. If you enable any others yo
 
 ## Setting up OAuth callbacks
 
-The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: [`https://appy.bot/callback/discord`](https://appybot.xyz/callback/discord)&#x20;
+The next step is to setup the oauth callback so that you can invite the bot to your server. Head on over to the "oauth" page and copy the following url into the redirects box: `https://appy.bot/callback/discord`&#x20;
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

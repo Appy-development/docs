@@ -6,7 +6,7 @@ You are seeking for new staff, it can be a new moderator, staff chief, supporter
 
 An application form gives you control over who you approve for certain things on your server. This can be anything from staff jobs, to game members, various discord roles or anything else that just fits into your community.
 
-Abby's application forms allow your members to easily apply for what you are looking for, while the applications will be displayed for you and your staff members in a clear way, with the possibility to accept or deny them.
+Appy's application forms allow your members to easily apply for what you are looking for, while the applications will be displayed for you and your staff members in a clear way, with the possibility to accept or deny them.
 
 <figure><img src="../../.gitbook/assets/Application exampel.png" alt=""><figcaption><p>An example of a application.</p></figcaption></figure>
 

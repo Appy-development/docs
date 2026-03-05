@@ -8,8 +8,8 @@ Commands for viewing various Appy-related information, and accessing non-server-
 
 | Command name | Description                           |
 | ------------ | ------------------------------------- |
-| `/help`      | Provides a list of the bots commands. |
-| `/stats`     | Displays stats for the bot.           |
+| `/lookup`      | Provides a list of the bots commands. |
+| `/ID_lookup`     | Displays stats for the bot.           |
 
 ## Application
 

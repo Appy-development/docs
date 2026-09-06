@@ -11,6 +11,7 @@
   * [Panels](getting-started/set-up/panels.md)
   * [How to apply](getting-started/set-up/how-to-apply.md)
   * [Polls](getting-started/set-up/polls.md)
+  * [Applying for intents](getting-started/set-up/applying-for-intents.md)
   * [Custom bot](getting-started/set-up/custom-bot.md)
 * [Ticket system](getting-started/ticket-system/README.md)
   * [Ticket setup](getting-started/ticket-system/ticket-setup.md)
